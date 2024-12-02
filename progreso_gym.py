@@ -91,10 +91,19 @@ datos = [
         "peso": 214.8,
         "brazo": {"izquierdo": 15.7, "derecho": 15.4},
         "cintura": {"min": 35, "max": 38.1},
-        "pliegues": {"min": 20, "max": None},
+        "pliegues": {"min": 20.3, "max": None},
         "pantorrillas": {"izquierda": 16.7, "derecha": 17},
         "pierna": {"izquierda": 26.4, "derecha": 26.7},
-        "pecho": 41}
+        "pecho": 41},
+
+    {"fecha": "02 de Diciembre",
+        "peso": 206.1,
+        "brazo": {"izquierdo": 15, "derecho": 14.7},
+        "cintura": {"min": 34, "max": 37.7},
+        "pliegues": {"min": 20.2, "max": None},
+        "pantorrillas": {"izquierda": 16.4, "derecha": 16.4},
+        "pierna": {"izquierda": 25.7, "derecha": 25.7},
+        "pecho": 42.3}
     
 ]
 
