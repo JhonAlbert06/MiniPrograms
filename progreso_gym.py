@@ -133,6 +133,26 @@ datos = [
         "pantorrillas": {"izquierda": 16.4, "derecha": 16.4},
         "pierna": {"izquierda": 26.5 , "derecha": 27 },
         "pecho": 41
+    },
+
+    { "fecha": "Abril - 2025",
+        "peso": 213,
+        "brazo": {"izquierdo": 16, "derecho":15.5  },
+        "cintura": {"min": 34.7, "max":37  },
+        "pliegues": {"min": 20.1, "max": None},
+        "pantorrillas": {"izquierda": 17.1, "derecha": 16.1},
+        "pierna": {"izquierda":27.1  , "derecha":27.1  },
+        "pecho": 43
+    },
+
+    { "fecha": "Mayo - 2025",
+        "peso": 216.3,
+        "brazo": {"izquierdo": 16.2, "derecho": 15.5},
+        "cintura": {"min": 35.6, "max":39 },
+        "pliegues": {"min":20, "max": None},
+        "pantorrillas": {"izquierda": 17.1, "derecha": 16.7},
+        "pierna": {"izquierda": 29.2, "derecha": 28.5 },
+        "pecho": 44
     }
     
 ]
