@@ -153,7 +153,17 @@ datos = [
         "pantorrillas": {"izquierda": 17.1, "derecha": 16.7},
         "pierna": {"izquierda": 29.2, "derecha": 28.5 },
         "pecho": 44
-    }
+    },
+
+    { "fecha": "Junio - 2025",
+        "peso": 213.5,
+        "brazo": {"izquierdo": 16, "derecho": 15.5},
+        "cintura": {"min": 34.5, "max": 38},
+        "pliegues": {"min":10.4, "max": None},
+        "pantorrillas": {"izquierda": 17, "derecha": 17},
+        "pierna": {"izquierda": 27, "derecha": 27},
+        "pecho": 42.2 
+     }
     
 ]
 
