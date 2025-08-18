@@ -174,6 +174,16 @@ datos = [
         "pierna": {"izquierda": 27.2, "derecha": 27.2},
         "pecho": 44.3
     },
+
+    { "fecha": "Agosto - 2025",
+        "peso": 210.3,
+        "brazo": {"izquierdo": 15.7, "derecho": 15.5},
+        "cintura": {"min": 34.7, "max": 36.7},
+        "pliegues": {"min": 10.3, "max": None},
+        "pantorrillas": {"izquierda": 16.6, "derecha": 16.4},
+        "pierna": {"izquierda": 26.5, "derecha": 26.7},
+        "pecho": 42.5
+    },
 ]
 
 # Fechas para el eje x
