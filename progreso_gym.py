@@ -204,6 +204,28 @@ datos = [
     "pantorrillas": {"izquierda": 16.4, "derecha": 16.4},
     "pierna": {"izquierda": 28, "derecha": 27.7},
     "pecho": 42.8
+},
+
+{
+    "fecha": "Noviembre - 2025",
+    "peso": 215.4,
+    "brazo": {"izquierdo": 16, "derecho": 16},
+    "cintura": {"min": 34.4, "max": 36.8},
+    "pliegues": {"min": 10.2, "max": None},
+    "pantorrillas": {"izquierda": 16.4, "derecha": 16.4},
+    "pierna": {"izquierda": 28, "derecha": 27.7},
+    "pecho": 42.8
+},
+
+{
+    "fecha": "Diciembre - 2025",
+    "peso": 215.4,
+    "brazo": {"izquierdo": 16, "derecho": 16},
+    "cintura": {"min": 34.4, "max": 36.8},
+    "pliegues": {"min": 10.2, "max": None},
+    "pantorrillas": {"izquierda": 16.4, "derecha": 16.4},
+    "pierna": {"izquierda": 28, "derecha": 27.7},
+    "pecho": 42.8
 }
 ]
 
